@@ -27,10 +27,10 @@ BrightPath is an offline-first, AI-powered learning platform designed to make qu
 4. Teachers can monitor and guide students effectively.
 
 ## 📷 Screenshots
-![Home Screen](images/home.png)
-![Lesson Screen](images/lesson.png)
-![Gamified Dashboard](images/dashboard.png)
-![Teacher Dashboard](images/teacher.png)
+![Home Screen](Gallary/home)
+![Lesson Screen](Gallary/Lesson)
+![Gamified Dashboard](Gallary/Dashboard)
+![Teacher Dashboard](Gallary/Teacher)
 
 ## 🏆 Accomplishments
 - Offline-first architecture for rural learning.
